@@ -10,7 +10,7 @@ This project favors Playwright-specific locators, including accessibility-driven
 
 ```bash
 git clone https://github.com/mmukix/swag-checkout.git
-cd playwright-ts-tests
+cd swag-checkout
 ```
 2. **Install Dependencies**
 
