@@ -1,6 +1,6 @@
 # swag-checkout
 
-This is a sample Playwright project demonstrating automated end-to-end testing of a web application. The project includes basic test scripts, page objects, and utilities.
+This is a sample Playwright project demonstrating automated end-to-end testing of a web application. The project includes a basic test script, page objects, and utilities.
 
 This project favors Playwright-specific locators, including accessibility-driven selectors, to align with best practices and remain stable as the UI evolves. 
 
