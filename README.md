@@ -24,7 +24,7 @@ npx playwright install
 ```
 ## Running Tests
 
-1. **Run the polished E2E test script**
+1. **Run the E2E test script**
 
 ```bash
 npx playwright test tests/purchase.spec.ts
